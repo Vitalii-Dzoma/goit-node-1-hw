@@ -1,0 +1,28 @@
+{
+  "name": "goit-node-1-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "start:dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitalii-Dzoma/goit-node-1-hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitalii-Dzoma/goit-node-1-hw/issues"
+  },
+  "homepage": "https://github.com/Vitalii-Dzoma/goit-node-1-hw#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "uniqid": "^5.4.0",
+    "yargs": "^17.5.1"
+  }
+}
